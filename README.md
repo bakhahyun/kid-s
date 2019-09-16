@@ -1,0 +1,2 @@
+# kid-s
+lecture SIM
